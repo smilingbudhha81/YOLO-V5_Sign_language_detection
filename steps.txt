@@ -1,0 +1,15 @@
+download yolov5
+create capture_image
+run.py
+
+run capture_image.py
+
+collec photos as data
+
+put it i annotation tool
+
+create a dataset train without lablling. 
+
+create colab file. run code to create best.pt
+
+run detect.py for inferencing from yolov5
